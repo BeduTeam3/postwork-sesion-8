@@ -20,23 +20,15 @@ Configurar un ambiente de desarrollo para una aplicación nueva
   - [x] Babel
   - [x] Webpack Dev Server.
 - [ ] Instalar las librerías que se vayan a utilizar (Bootstrap, Materialize, Foundation, etc.).
-- [ ] Configurar los loaders necesarios para los estilos, se puede utilizar CSS o SASS.
+- [x] Configurar los loaders necesarios para los estilos, se puede utilizar CSS o SASS.
 
 ## Clonar y correr este proyecto
 
+Clonar la estructura de archivos
 ```
 git clone https://github.com/BeduTeam3/postwork-sesion-8
-npm init -y
 ```
-Instalar WebPack, CLI y Dev Server
+Instalar WebPack, CLI, Dev Server, Babel, y loaders de CSS
 ```
-npm install --save-dev webpack webpack-cli html-webpack-plugin webpack-dev-server
-```
-Instalar Babel
-```
-npm install --save-dev @babel/core @babel/preset-env babel-loader
-```
-Instalar loaders para CSS
-```
-npm install --save-dev css-loader style-loader
+npm install https://github.com/BeduTeam3/postwork-sesion-8
 ```
