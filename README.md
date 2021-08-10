@@ -14,12 +14,12 @@ Configurar un ambiente de desarrollo para una aplicación nueva
 
  Esta es la primera parte de ese proyecto y consiste en dejar listo el ambiente de desarrollo:
 
-- [ ] Desarrolla los mockups de la aplicación, esto te permitirá visualizar cómo se van a acomodar todos los elementos mucho antes de crear el código. Es parte fundamental en el desarrollo del software.
+- [x] Desarrolla los mockups de la aplicación, esto te permitirá visualizar cómo se van a acomodar todos los elementos mucho antes de crear el código. Es parte fundamental en el desarrollo del software.
 - [x] Instalar y configurar:
   - [x] Webpack
   - [x] Babel
   - [x] Webpack Dev Server.
-- [ ] Instalar las librerías que se vayan a utilizar (Bootstrap, Materialize, Foundation, etc.).
+- [x] Instalar las librerías que se vayan a utilizar (Bootstrap, Materialize, Foundation, etc.).
 - [x] Configurar los loaders necesarios para los estilos, se puede utilizar CSS o SASS.
 
 ## Clonar y correr este proyecto
