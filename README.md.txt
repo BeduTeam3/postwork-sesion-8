@@ -1,0 +1,1 @@
+Se agrega footer y se agrega diseño para que envie un correo al destinatario.
